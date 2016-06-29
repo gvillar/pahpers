@@ -194,11 +194,11 @@ hr.small {
   font-weight: 600;
 }
 .intro-header .post-heading .meta {
-  font-family: 'Lora', 'Palatino', serif;
+  font-family: 'Lora', 'Times New Roman', serif;
   font-style: italic;
   font-weight: 300;
   font-size: 25px;
-  line-height: 75%;
+  line-height: 60%;
 }
 .intro-header .post-heading .meta a {
   color: white;
