@@ -4,5 +4,5 @@ A partir de ahora, todos los proyectos de periodismo de datos a título individu
 
 ## Proyecto
 
-Durante estos días, este trabajo estará en constante actualización para su optimización. El fuerte reside en el scraping y cruce de datos posterior, presente ya en la web. A lo largo de esta semana y la siguiente se publicarán, por tanto, más contenidos.
+Durante estos días, este trabajo estará en constante actualización para su optimización. En septiembre quedará la versión definitiva.
 
