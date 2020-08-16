@@ -10,7 +10,7 @@ Proyecto final del Máster en <a href="https://www.villanueva.edu/master-en-peri
 Master's final project in <a href="https://www.villanueva.edu/master-en-periodismo-de-datos-landing/" target="_blank">Data Journalism</a> at Centro Universitario Villanueva (currently Villanueva University, Madrid, España) created with <a href="http://startbootstrap.com/" target="_blank">Start Bootstrap</a>.
 
 
-## Copyright and License
+### Copyright and License
 
 &copy; 2016 Guillermo Villar. All rights reserved.
 
